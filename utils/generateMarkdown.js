@@ -4,7 +4,9 @@ function renderLicenseBadge(license) {}
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
-function renderLicenseLink(license) {}
+function renderLicenseLink(license) {
+
+}
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
@@ -14,8 +16,9 @@ function renderLicenseSection(license) {}
 function generateMarkdown(answers) {
 
   return `<h1>${answers.projectTitle}</h1>
-  
-  ![badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)<br />
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  <br />
+  <br />
   
   ## Description
   🔍 ${answers.description}
@@ -52,8 +55,7 @@ function generateMarkdown(answers) {
   :octocat: Find me on GitHub: <a href="https://github.com/${answers.username}" target="_blank">${answers.username}</a><br />
   <br />
   ✉️ Email me with any questions: <a href="mailto:${answers.email}" target="_blank">${answers.email}</a><br /><br />
-  
-  _This README was generated with ❤️ by [README-generator](https://github.com/jpd61/README-generator) 🔥🔥🔥_`;
+`;
 }
 
 module.exports = generateMarkdown;

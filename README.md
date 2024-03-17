@@ -1,9 +1,10 @@
-<h1>Readme generator</h1>
-  
-  ![badge](https://img.shields.io/badge/license-GPL 3.0-brightgreen)<br />
+<h1>ff</h1>
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  <br />
+  <br />
   
   ## Description
-  🔍 
+  🔍 ss
   
   ## Table of Contents
   - [Description](#description)
@@ -15,27 +16,25 @@
   - [Questions](#questions)
   
   ## Installation
-  💾 ? Write a brief description of your project:   
+  💾 ss
   
   ## Usage
-  💻 hkkhk
+  💻 zz
   
   ## License
-  ![badge](https://img.shields.io/badge/license-GPL 3.0-brightgreen)
+  ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
   <br />
-  This application is covered by the GPL 3.0 license. 
+  This application is covered by the MIT license. 
   
   ## Contributing
-  👪 Sahana
+  👪 dd
   
   ## Tests
-  ✏️ No
+  ✏️ aa
   
   ## Questions
-  Contact me<br />
+  aa<br />
   <br />
-  :octocat: Find me on GitHub: <a href="https://github.com/Sahanaroy1" target="_blank">Sahanaroy1</a><br />
+  :octocat: Find me on GitHub: <a href="https://github.com/aa" target="_blank">aa</a><br />
   <br />
-  ✉️ Email me with any questions: <a href="mailto:sahanaroy20@gmail.com" target="_blank">sahanaroy20@gmail.com</a><br /><br />
-  
-  _This README was generated with ❤️ by [README-generator](https://github.com/jpd61/README-generator) 🔥🔥🔥_
+  ✉️ Email me with any questions: <a href="mailto:aa" target="_blank">aa</a><br /><br />
