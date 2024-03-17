@@ -49,7 +49,7 @@ function generateMarkdown(answers) {
   ## Questions
   ${answers.questions}<br />
   <br />
-  :octocat: Find me on GitHub: <a href="(https://github.com/${answers.username})" target="_blank">${answers.username}</a><br />
+  :octocat: Find me on GitHub: <a href="https://github.com/${answers.username}" target="_blank">${answers.username}</a><br />
   <br />
   ✉️ Email me with any questions: <a href="mailto:${answers.email}" target="_blank">${answers.email}</a><br /><br />
   
