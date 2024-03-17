@@ -1,8 +1,9 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
+  console.log(license);
   if (license === "MIT"){
-    `<img src="https://img.shields.io/badge/License-MIT-yellow.svg">`
+    `<img src=" https://img.shields.io/badge/License-MIT-yellow.svg">`
   } else if (license === "Apache 2.0") {
    `<img src=" https://img.shields.io/badge/License-Apache_2.0-blue.svg">`
   } else if (license === "GPL 3.0") {
@@ -29,8 +30,9 @@ function renderLicenseSection(license) {}
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(answers) {
 
+  
   return `<h1>${answers.projectTitle}</h1>
-  renderLicenseBadge(${answers.license})
+  ${renderLicenseBadge(answers.license)}
   <br />
   <br />
   

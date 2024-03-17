@@ -1,10 +1,10 @@
-<h1>d</h1>
-  renderLicenseBadge(Apache 2.0)
+<h1>w</h1>
+  undefined
   <br />
   <br />
   
   ## Description
-  🔍 dd
+  🔍 was
   
   ## Table of Contents
   - [Description](#description)
@@ -16,25 +16,25 @@
   - [Questions](#questions)
   
   ## Installation
-  💾 d
+  💾 as
   
   ## Usage
-  💻 d
+  💻 qqq
   
   ## License
-  ![badge](https://img.shields.io/badge/license-Apache 2.0-brightgreen)
+  ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
   <br />
-  This application is covered by the Apache 2.0 license. 
+  This application is covered by the MIT license. 
   
   ## Contributing
-  👪 d
+  👪 
   
   ## Tests
-  ✏️ d
+  ✏️ 
   
   ## Questions
-  d<br />
   <br />
-  :octocat: Find me on GitHub: <a href="https://github.com/d" target="_blank">d</a><br />
   <br />
-  ✉️ Email me with any questions: <a href="mailto:d" target="_blank">d</a><br /><br />
+  :octocat: Find me on GitHub: <a href="https://github.com/q" target="_blank">q</a><br />
+  <br />
+  ✉️ Email me with any questions: <a href="mailto:" target="_blank"></a><br /><br />
