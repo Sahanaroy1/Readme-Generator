@@ -1,10 +1,10 @@
 <h1>w</h1>
-  undefined
+  ![License Badge](https://shields.io/badge/license-MIT-yellow)
   <br />
   <br />
   
   ## Description
-  🔍 was
+  🔍 w
   
   ## Table of Contents
   - [Description](#description)
@@ -16,10 +16,10 @@
   - [Questions](#questions)
   
   ## Installation
-  💾 as
+  💾 e
   
   ## Usage
-  💻 qqq
+  💻 e
   
   ## License
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
@@ -27,14 +27,14 @@
   This application is covered by the MIT license. 
   
   ## Contributing
-  👪 
+  👪 e
   
   ## Tests
-  ✏️ 
+  ✏️ e
   
   ## Questions
+  e<br />
   <br />
+  :octocat: Find me on GitHub: <a href="https://github.com/e" target="_blank">e</a><br />
   <br />
-  :octocat: Find me on GitHub: <a href="https://github.com/q" target="_blank">q</a><br />
-  <br />
-  ✉️ Email me with any questions: <a href="mailto:" target="_blank"></a><br /><br />
+  ✉️ Email me with any questions: <a href="mailto:e" target="_blank">e</a><br /><br />
