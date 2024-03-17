@@ -1,10 +1,10 @@
-<h1>vjhvjv</h1>
-  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  ![badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)<br />
+<h1>kk</h1>
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+  <br />
   <br />
   
   ## Description
-  🔍 kb
+  🔍 o
   
   ## Table of Contents
   - [Description](#description)
@@ -16,25 +16,25 @@
   - [Questions](#questions)
   
   ## Installation
-  💾 nk
+  💾 kkkkkk
   
   ## Usage
-  💻 d
+  💻 jk
   
   ## License
-  ![badge](https://img.shields.io/badge/license-BSD 3-brightgreen)
+  ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
   <br />
-  This application is covered by the BSD 3 license. 
+  This application is covered by the MIT license. 
   
   ## Contributing
-  👪 cd
+  👪 fdf
   
   ## Tests
-  ✏️ dd
+  ✏️ ddd
   
   ## Questions
-  ss<br />
+  dd<br />
   <br />
-  :octocat: Find me on GitHub: <a href="https://github.com/ss" target="_blank">ss</a><br />
+  :octocat: Find me on GitHub: <a href="https://github.com/dd" target="_blank">dd</a><br />
   <br />
-  ✉️ Email me with any questions: <a href="mailto:ss" target="_blank">ss</a><br /><br />
+  ✉️ Email me with any questions: <a href="mailto:dd" target="_blank">dd</a><br /><br />

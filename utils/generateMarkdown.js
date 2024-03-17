@@ -16,7 +16,7 @@ function renderLicenseSection(license) {}
 function generateMarkdown(answers) {
 
   return `<h1>${answers.projectTitle}</h1>
-  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   <br />
   <br />
   
