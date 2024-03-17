@@ -18,7 +18,7 @@ function generateMarkdown(answers) {
   ![badge](https://img.shields.io/badge/license-${answers.projectName}-brightgreen)<br />
   
   ## Description
-  🔍 ${answers.projectName}
+  🔍 ${answers.description}
   
   ## Table of Contents
   - [Description](#description)
@@ -30,26 +30,26 @@ function generateMarkdown(answers) {
   - [Questions](#questions)
   
   ## Installation
-  💾 ${answers.projectName}
+  💾 ${answers.installation}
   
   ## Usage
-  💻 ${answers.projectName}
+  💻 ${answers.usage}
   
   ## License
-  ![badge](https://img.shields.io/badge/license-${answers.projectName}-brightgreen)
+  ![badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)
   <br />
   This application is covered by the ${answers.projectName} license. 
   
   ## Contributing
-  👪 ${answers.projectName}
+  👪 ${answers.contributing}
   
   ## Tests
-  ✏️ ${answers.projectName}
+  ✏️ ${answers.tests}
   
   ## Questions
-  ✋ ${answers.projectName}<br />
+  ✋ ${answers.questions}<br />
   <br />
-  :octocat: Find me on GitHub: [${answers.projectName}](https://github.com/${answers.projectName})<br />
+  :octocat: Find me on GitHub: [${answers.username}](https://github.com/${answers.username})<br />
   <br />
   ✉️ Email me with any questions: ${answers.email}<br /><br />
   

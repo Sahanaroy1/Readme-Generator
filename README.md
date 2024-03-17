@@ -1,9 +1,9 @@
-<h1 align="center">jklas 👋</h1>
+<h1 align="center">undefined 👋</h1>
   
-  ![badge](https://img.shields.io/badge/license-jklas-brightgreen)<br />
+  ![badge](https://img.shields.io/badge/license-undefined-brightgreen)<br />
   
   ## Description
-  🔍 jklas
+  🔍 As a developer I want to make a readme generator
   
   ## Table of Contents
   - [Description](#description)
@@ -15,27 +15,27 @@
   - [Questions](#questions)
   
   ## Installation
-  💾 jklas
+  💾 npm init
   
   ## Usage
-  💻 jklas
+  💻 Run the following command at th root of your project and answer the prompted questions:
   
   ## License
-  ![badge](https://img.shields.io/badge/license-jklas-brightgreen)
+  ![badge](https://img.shields.io/badge/license-BSD 3-brightgreen)
   <br />
-  This application is covered by the jklas license. 
+  This application is covered by the undefined license. 
   
   ## Contributing
-  👪 jklas
+  👪 Sahana
   
   ## Tests
-  ✏️ jklas
+  ✏️ No
   
   ## Questions
-  ✋ jklas<br />
+  ✋ <br />
   <br />
-  :octocat: Find me on GitHub: [jklas](https://github.com/jklas)<br />
+  :octocat: Find me on GitHub: [Sahana](https://github.com/Sahana)<br />
   <br />
-  ✉️ Email me with any questions: sss<br /><br />
+  ✉️ Email me with any questions: sahana@gmail<br /><br />
   
   _This README was generated with ❤️ by [README-generator](https://github.com/jpd61/README-generator) 🔥🔥🔥_
