@@ -13,9 +13,9 @@ function renderLicenseSection(license) {}
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(answers) {
 
-  return `<h1 align="center">${answers.projectName} 👋</h1>
+  return `<h1>${answers.projectTitle}</h1>
   
-  ![badge](https://img.shields.io/badge/license-${answers.projectName}-brightgreen)<br />
+  ![badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)<br />
   
   ## Description
   🔍 ${answers.description}
@@ -38,7 +38,7 @@ function generateMarkdown(answers) {
   ## License
   ![badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)
   <br />
-  This application is covered by the ${answers.projectName} license. 
+  This application is covered by the ${answers.license} license. 
   
   ## Contributing
   👪 ${answers.contributing}
@@ -47,7 +47,7 @@ function generateMarkdown(answers) {
   ✏️ ${answers.tests}
   
   ## Questions
-  ✋ ${answers.questions}<br />
+  ${answers.questions}<br />
   <br />
   :octocat: Find me on GitHub: [${answers.username}](https://github.com/${answers.username})<br />
   <br />
