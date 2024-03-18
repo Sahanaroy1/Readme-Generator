@@ -1,8 +1,8 @@
 <h1>Readme</h1>
-  <img src = (https://shields.io/badge/license-BSD 3-Clause blue)/>
+  <img src = (https://shields.io/badge/license-BSD 3Clause-blue)/>
   
   ## Description
-  🔍 Develop
+  🔍 develop
   
   ## Table of Contents
   - [Description](#description)
@@ -14,10 +14,10 @@
   - [Questions](#questions)
   
   ## Installation
-  💾 ooo
+  💾 ee
   
   ## Usage
-  💻 ppp
+  💻 ss
   
   ## License
   ![badge](https://img.shields.io/badge/license-BSD 3-brightgreen)
