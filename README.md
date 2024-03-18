@@ -1,9 +1,9 @@
-<h1>Readme</h1>
+<h1>ee</h1>
   <img src = ![badge](https://img.shields.io/badge/license-${answers.license}-blue)/>
  
   
   ## Description
-  🔍 Develop
+  🔍 ee
   
   ## Table of Contents
   - [Description](#description)
@@ -15,25 +15,26 @@
   - [Questions](#questions)
   
   ## Installation
-  💾 er
+  💾 ee
   
   ## Usage
-  💻 rr
+  💻 
   
   ## License
-  ![badge](https://img.shields.io/badge/license-Apache 2.0-brightgreen)
   <br />
-  This application is covered by the Apache 2.0 license. 
+  ## License
+Please see  to get detailed information for this license
+
   
   ## Contributing
-  👪 r
+  👪 
   
   ## Tests
-  ✏️ r
+  ✏️ 
   
   ## Questions
-  r<br />
   <br />
-  :octocat: Find me on GitHub: <a href="https://github.com/r" target="_blank">r</a><br />
   <br />
-  ✉️ Email me with any questions: <a href="mailto:r" target="_blank">r</a><br /><br />
+  :octocat: Find me on GitHub: <a href="https://github.com/" target="_blank"></a><br />
+  <br />
+  ✉️ Email me with any questions: <a href="mailto:" target="_blank"></a><br /><br />
