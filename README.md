@@ -1,9 +1,9 @@
-<h1>Readme Generator</h1>
+<h1></h1>
   <img src = "https://img.shields.io/badge/License-GPL%20v3-blue.svg"/>
  
   
   ## Description
-  🔍 As a developer want to develop a Readme Generator
+  🔍 
   
   ## Table of Contents
   - [Description](#description)
@@ -15,10 +15,10 @@
   - [Questions](#questions)
   
   ## Installation
-  💾 npm init
+  💾 
   
   ## Usage
-  💻 Readme file
+  💻 
   
   ## License
   <br />
