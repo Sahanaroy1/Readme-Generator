@@ -1,5 +1,5 @@
 <h1></h1>
-  <img src = "https://img.shields.io/badge/License-GPL%20v3-blue.svg"/>
+  <img src = "https://img.shields.io/badge/License-BSD%203--Clause-blue.svg"/>
  
   
   ## Description
