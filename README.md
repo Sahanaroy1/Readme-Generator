@@ -1,10 +1,10 @@
 
-  ## ww
-  ![alt text](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)
+  ## www
+  ![alt text](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
  
   
   ## Description
-  🔍 ww
+  🔍 www
   
   ## Table of Contents
   - [Description](#description)
@@ -16,20 +16,20 @@
   - [Questions](#questions)
   
   ## Installation
-  💾 ww
+  💾 www
   
   ## Usage
-  💻 ww
+  💻 www
   
   ## License
   <br />
-  The code is available under https://opensource.org/licenses/BSD-3-Clause license.
+  The code is available under https://opensource.org/licenses/Apache-2.0 license.
   
   ## Contributing
-  👪 ww
+  👪 www
   
   ## Tests
-  ✏️ ww
+  ✏️ www
   
   ## Questions
   ww<br />
