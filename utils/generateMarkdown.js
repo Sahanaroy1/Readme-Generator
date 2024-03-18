@@ -4,7 +4,7 @@ function renderLicenseBadge(license) {
   console.log(license);
   let badge = "";
   if (license === "MIT"){
-     badge = "![License Badge](https://shields.io/badge/license-" + license + "-yellow)";
+     badge = "(https://shields.io/badge/license-" + license + "-yellow)";
   } else if (license === "Apache 2.0") {
     badge = "![License Badge](https://shields.io/badge/license-" + license + "-blue)";
   } else if (license === "GPL 3.0") {
