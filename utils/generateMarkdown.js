@@ -25,20 +25,16 @@ console.log(license);
   switch(license) {
 
     case "MIT":
-      licenseLink = `<a href = "https://mit-license.org/">MIT</a>`;
-      //"https://mit-license.org/";
+      licenseLink = `<a href = "https://mit-license.org/" target="_blank">MIT</a>`;
       break;
     case "Apache 2.0":
-      licenseLink = `<a href="https://opensource.org/licenses/Apache-2.0">Apache-2.0</a>`;
-      //"https://opensource.org/licenses/Apache-2.0";
+      licenseLink = `<a href="https://opensource.org/licenses/Apache-2.0" target="_blank">Apache-2.0</a>`;
       break;
     case "GPL 3.0":
-      licenseLink = `<a href ="https://www.gnu.org/licenses/gpl-3.0">GPL 3.0</a>`;
-      //"https://www.gnu.org/licenses/gpl-3.0"
+      licenseLink = `<a href ="https://www.gnu.org/licenses/gpl-3.0" target="_blank">GPL 3.0</a>`;
       break;
     case "BSD 3":
-      licenseLink = `<a href ="https://opensource.org/licenses/BSD-3-Clause">BSD-3</a>`;
-     // "https://opensource.org/licenses/BSD-3-Clause";
+      licenseLink = `<a href ="https://opensource.org/licenses/BSD-3-Clause" target="_blank">BSD-3</a>`;
       break;
     default:
       licenseLink = "";
@@ -56,7 +52,7 @@ function renderLicenseSection(license) {
   let licenseSect = "";
 
   if (license != "None") {
-    licenseSect += "The code is available at " + renderLicenseLink(license) + " license." ;
+    licenseSect += "The code is available under " + renderLicenseLink(license) + " license." ;
   }
 
   return licenseSect;
