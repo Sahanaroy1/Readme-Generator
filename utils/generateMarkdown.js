@@ -25,20 +25,20 @@ console.log(license);
   switch(license) {
 
     case "MIT":
-      licenseLink = //`<a href = "https://mit-license.org/">MIT</a>`;
-      "https://mit-license.org/";
+      licenseLink = `<a href = "https://mit-license.org/">MIT</a>`;
+      //"https://mit-license.org/";
       break;
     case "Apache 2.0":
-      licenseLink = //`<a href="https://opensource.org/licenses/Apache-2.0">Apache-2.0</a>`;
-      "https://opensource.org/licenses/Apache-2.0";
+      licenseLink = `<a href="https://opensource.org/licenses/Apache-2.0">Apache-2.0</a>`;
+      //"https://opensource.org/licenses/Apache-2.0";
       break;
     case "GPL 3.0":
-      licenseLink = //`<a href ="https://www.gnu.org/licenses/gpl-3.0">GPL 3.0</a>`;
-      "https://www.gnu.org/licenses/gpl-3.0"
+      licenseLink = `<a href ="https://www.gnu.org/licenses/gpl-3.0">GPL 3.0</a>`;
+      //"https://www.gnu.org/licenses/gpl-3.0"
       break;
     case "BSD 3":
-      licenseLink = //`<a href ="https://opensource.org/licenses/BSD-3-Clause">BSD-3</a>`;
-      "https://opensource.org/licenses/BSD-3-Clause";
+      licenseLink = `<a href ="https://opensource.org/licenses/BSD-3-Clause">BSD-3</a>`;
+     // "https://opensource.org/licenses/BSD-3-Clause";
       break;
     default:
       licenseLink = "";

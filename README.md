@@ -22,7 +22,7 @@
   
   ## License
   <br />
-  Please see https://www.gnu.org/licenses/gpl-3.0 to get detailed information for this license
+  Please see <a href ="https://www.gnu.org/licenses/gpl-3.0">GPL 3.0</a> to get detailed information for this license
 
   
   ## Contributing
