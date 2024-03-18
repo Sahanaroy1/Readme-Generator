@@ -1,5 +1,5 @@
 <h1></h1>
-  <img src = "https://img.shields.io/badge/License-MIT-yellow.svg"/>
+  <img src = "https://img.shields.io/badge/License-Apache_2.0-blue.svg"/>
  
   
   ## Description
@@ -22,7 +22,7 @@
   
   ## License
   <br />
-  Please see https://mit-license.org/ to get detailed information for this license
+  Please see  to get detailed information for this license
 
   
   ## Contributing
