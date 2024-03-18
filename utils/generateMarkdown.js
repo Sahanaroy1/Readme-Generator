@@ -56,7 +56,7 @@ function renderLicenseSection(license) {
   let licenseSect = "";
 
   if (license != "None") {
-    licenseSect += "Please see " + renderLicenseLink(license) + " to get detailed information for this license\n";
+    licenseSect += "The code is available at " + renderLicenseLink(license) + " license." ;
   }
 
   return licenseSect;
