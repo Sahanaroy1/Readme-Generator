@@ -15,8 +15,6 @@ function renderLicenseBadge(license) {
     badge = "";
    }
    return badge;
-   console.log(badge);
-  
 }
 
 // TODO: Create a function that returns the license link
@@ -26,7 +24,7 @@ function renderLicenseLink(license) {
 
   switch(license) {
     case "MIT":
-      licenseLink = "https://mit-license.org/";
+      licenseLink = `<a href = "https://mit-license.org/">license</a>`;
       break;
     case "Apache":
       licenseLink = "https://opensource.org/licenses/Apache-2.0";
