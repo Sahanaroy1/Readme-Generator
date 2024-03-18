@@ -4,20 +4,15 @@ function renderLicenseBadge(license) {
   console.log(license);
   let badge = "";
   if (license === "MIT"){
-     badge = //"(https://shields.io/badge/license-" + license + "-yellow)";
-     "![badge](https://img.shields.io/badge/license-" + license + "-yellow)";
+     badge = "![badge](https://img.shields.io/badge/license-" + license + "-yellow)";
   } else if (license === "Apache 2.0") {
-    badge =// "(https://shields.io/badge/license-" + license + "-blue)";
-    "![badge](https://img.shields.io/badge/license-${answers.license}-blue)";
+    badge = "![badge](https://img.shields.io/badge/license-" + license + "-blue)";
   } else if (license === "GPL 3.0") {
-    badge = //"(https://shields.io/badge/license-" + license + "-blue)";
-    "![badge](https://img.shields.io/badge/license-${answers.license}-blue)";
-    
+    badge = "![badge](https://img.shields.io/badge/license-" + license + "-blue)";  
    } else if (license === "BSD 3") {
-    badge =//"(https://shields.io/badge/license-" + license + "Clause-blued)";
-    "![badge](https://img.shields.io/badge/license-${answers.license}-Clause-blue)";
+    badge = "![badge](https://img.shields.io/badge/license-" + license + "-Clause-blue)";
    } else{
-    badge = `<p>No Liscense found</p>`
+    badge = "";
    }
    return badge;
    console.log(badge);
