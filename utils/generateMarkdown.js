@@ -24,16 +24,16 @@ function renderLicenseLink(license) {
 
   switch(license) {
     case "MIT":
-      licenseLink = `<a href = "https://mit-license.org/">license</a>`;
+      licenseLink = `<a href = "https://mit-license.org/">MIT</a>`;
       break;
     case "Apache":
-      licenseLink = "https://opensource.org/licenses/Apache-2.0";
+      licenseLink = `<a href="https://opensource.org/licenses/Apache-2.0">Apache-2.0</a>`;
       break;
     case "GPL":
-      licenseLink = "https://www.gnu.org/licenses/gpl-3.0";
+      licenseLink = `<a href ="https://www.gnu.org/licenses/gpl-3.0">GPL 3.0</a>`;
       break;
     case "BSD":
-      licenseLink = "https://opensource.org/licenses/BSD-3-Clause";
+      licenseLink = `<a href ="https://opensource.org/licenses/BSD-3-Clause">BSD-3</a>`;
       break;
     default:
       licenseLink = "";
