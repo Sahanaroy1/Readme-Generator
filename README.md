@@ -1,5 +1,5 @@
 <h1></h1>
-  <img src = ![badge](https://img.shields.io/badge/license-${answers.license}-yellow)/>
+  <img src = ![badge](https://img.shields.io/badge/license-MIT-yellow)/>
  
   
   ## Description

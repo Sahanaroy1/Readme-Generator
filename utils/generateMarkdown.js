@@ -5,7 +5,7 @@ function renderLicenseBadge(license) {
   let badge = "";
   if (license === "MIT"){
      badge = //"(https://shields.io/badge/license-" + license + "-yellow)";
-     "![badge](https://img.shields.io/badge/license-${answers.license}-yellow)";
+     "![badge](https://img.shields.io/badge/license-" + license + "-yellow)";
   } else if (license === "Apache 2.0") {
     badge =// "(https://shields.io/badge/license-" + license + "-blue)";
     "![badge](https://img.shields.io/badge/license-${answers.license}-blue)";
@@ -20,6 +20,7 @@ function renderLicenseBadge(license) {
     badge = `<p>No Liscense found</p>`
    }
    return badge;
+   console.log(badge);
   
 }
 
@@ -33,10 +34,10 @@ function renderLicenseLink(license) {
       licenseLink = "https://mit-license.org/";
       break;
     case "Apache":
-      licenseLink = "https://www.apache.org/licenses/LICENSE-2.0";
+      licenseLink = "https://opensource.org/licenses/Apache-2.0";
       break;
     case "GPL":
-      licenseLink = "https://www.gnu.org/licenses/gpl-3.0.en.html";
+      licenseLink = "https://www.gnu.org/licenses/gpl-3.0";
       break;
     case "BSD":
       licenseLink = "https://opensource.org/licenses/BSD-3-Clause";
