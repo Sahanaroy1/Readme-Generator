@@ -1,8 +1,8 @@
 <h1>w</h1>
-  <img src = (https://shields.io/badge/license-MIT-yellow)/>
+  <img src ="https://shields.io/badge/license-MIT-yellow"/>
   <br />
   <br />
-   ![License Badge]<img src ="https://shields.io/badge/license-MIT-yellow"/>
+   
   ## Description
   🔍 w
   
