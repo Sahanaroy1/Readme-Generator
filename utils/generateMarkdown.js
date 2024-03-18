@@ -51,7 +51,16 @@ function renderLicenseLink(license) {
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
-function renderLicenseSection(license) {}
+function renderLicenseSection(license) {
+  let licenseSect = "";
+
+  if (license != "None") {
+    licenseSect += "## License\n"
+    licenseSect += "Please see " + renderLicenseLink(license) + " to get detailed information for this license\n";
+  }
+
+  return licenseSect;
+}
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(answers) {
@@ -80,9 +89,8 @@ function generateMarkdown(answers) {
   💻 ${answers.usage}
   
   ## License
-  ![badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)
   <br />
-  This application is covered by the ${answers.license} license. 
+  ${renderLicenseSection(answers.license)}
   
   ## Contributing
   👪 ${answers.contributing}
