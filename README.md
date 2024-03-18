@@ -3,7 +3,7 @@
  
   
   ## Description
-  🔍 As a developer develop a readme project
+  🔍 develop
   
   ## Table of Contents
   - [Description](#description)
@@ -15,24 +15,24 @@
   - [Questions](#questions)
   
   ## Installation
-  💾 npm init
+  💾 npm
   
   ## Usage
-  💻 
+  💻 bkhbksmfbkwef
   
   ## License
   <br />
-  The code is available at <a href ="https://www.gnu.org/licenses/gpl-3.0">GPL 3.0</a> license.
+  The code is available under <a href ="https://www.gnu.org/licenses/gpl-3.0" target="_blank">GPL 3.0</a> license.
   
   ## Contributing
-  👪 Sahana
+  👪 
   
   ## Tests
-  ✏️ No
+  ✏️ bjbdfje
   
   ## Questions
-  contact me<br />
+  ndendk<br />
   <br />
-  :octocat: Find me on GitHub: <a href="https://github.com/sahanaroy1" target="_blank">sahanaroy1</a><br />
+  :octocat: Find me on GitHub: <a href="https://github.com/sjnds" target="_blank">sjnds</a><br />
   <br />
-  ✉️ Email me with any questions: <a href="mailto:sahanaroy20@gmail.com" target="_blank">sahanaroy20@gmail.com</a><br /><br />
+  ✉️ Email me with any questions: <a href="mailto:jsbdjbs" target="_blank">jsbdjbs</a><br /><br />
