@@ -4,13 +4,18 @@ function renderLicenseBadge(license) {
   console.log(license);
   let badge = "";
   if (license === "MIT"){
-     badge = "(https://shields.io/badge/license-" + license + "-yellow)";
+     badge = //"(https://shields.io/badge/license-" + license + "-yellow)";
+     "![badge](https://img.shields.io/badge/license-${answers.license}-yellow)";
   } else if (license === "Apache 2.0") {
-    badge = "(https://shields.io/badge/license-" + license + "-blue)";
+    badge =// "(https://shields.io/badge/license-" + license + "-blue)";
+    "![badge](https://img.shields.io/badge/license-${answers.license}-blue)";
   } else if (license === "GPL 3.0") {
-    badge = "(https://shields.io/badge/license-" + license + "-blue)";
+    badge = //"(https://shields.io/badge/license-" + license + "-blue)";
+    "![badge](https://img.shields.io/badge/license-${answers.license}-blue)";
+    
    } else if (license === "BSD 3") {
-    badge ="(https://shields.io/badge/license-" + license + "Clause-blued)";
+    badge =//"(https://shields.io/badge/license-" + license + "Clause-blued)";
+    "![badge](https://img.shields.io/badge/license-${answers.license}-Clause-blue)";
    } else{
     badge = `<p>No Liscense found</p>`
    }
@@ -54,6 +59,7 @@ function generateMarkdown(answers) {
   
   return `<h1>${answers.projectTitle}</h1>
   <img src = ${renderLicenseBadge(answers.license)}/>
+ 
   
   ## Description
   🔍 ${answers.description}
