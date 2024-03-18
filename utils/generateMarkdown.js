@@ -64,7 +64,7 @@ function generateMarkdown(answers) {
 
   
   return `<h1>${answers.projectTitle}</h1>
-  <img src = ${renderLicenseBadge(answers.license)}/>
+  ${renderLicenseBadge(answers.license)}
  
   
   ## Description
