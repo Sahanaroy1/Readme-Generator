@@ -4,14 +4,13 @@ function renderLicenseBadge(license) {
   console.log(license);
   let badge = "";
   if (license === "MIT"){
-     badge = "![License Badge](https://shields.io/badge/license-" + license + "-yellow)";
-    
+     badge = `![License: MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)`
   } else if (license === "Apache 2.0") {
-    badge = `<img src=" https://img.shields.io/badge/License-Apache_2.0-blue.svg">`
+    badge = "![License Badge](https://shields.io/badge/license-" + license + "-blue)";
   } else if (license === "GPL 3.0") {
-    badge = `<img src=" https://img.shields.io/badge/License-GPLv3-blue.svg">`
+    badge = "![License Badge](https://shields.io/badge/license-" + license + "-blue)";
    } else if (license === "BSD 3") {
-    badge = `<img src=" https://img.shields.io/badge/License-BSD_3--Clause-blue.svg">`
+    badge ="![License Badge](https://shields.io/badge/license-" + license + "-Clause blue)";
    } else{
     badge = `<p>No Liscense found</p>`
    }
