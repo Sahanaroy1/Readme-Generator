@@ -10,7 +10,7 @@ function renderLicenseBadge(license) {
   } else if (license === "GPL 3.0") {
     badge = "(https://shields.io/badge/license-" + license + "-blue)";
    } else if (license === "BSD 3") {
-    badge ="(https://shields.io/badge/license-" + license + "Clause-blue)";
+    badge ="(https://shields.io/badge/license-" + license + "Clause-blued)";
    } else{
     badge = `<p>No Liscense found</p>`
    }
