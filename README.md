@@ -1,10 +1,10 @@
 
-  ## qq
-  ![alt text]("https://img.shields.io/badge/License-GPL%20v3-blue.svg")
+  ## ww
+  ![alt text](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)
  
   
   ## Description
-  🔍 qq
+  🔍 ww
   
   ## Table of Contents
   - [Description](#description)
@@ -16,24 +16,24 @@
   - [Questions](#questions)
   
   ## Installation
-  💾 qq
+  💾 ww
   
   ## Usage
-  💻 qq
+  💻 ww
   
   ## License
   <br />
-  The code is available under https://www.gnu.org/licenses/gpl-3.0 license.
+  The code is available under https://opensource.org/licenses/BSD-3-Clause license.
   
   ## Contributing
-  👪 qq
+  👪 ww
   
   ## Tests
-  ✏️ qq
+  ✏️ ww
   
   ## Questions
-  qq<br />
+  ww<br />
   <br />
-  :octocat: Find me on GitHub: Sahanaroy1<br />
+  :octocat: Find me on GitHub: ww<br />
   <br />
-  ✉️ Email me with any questions: sahanaroy20@gmail.com<br />
+  ✉️ Email me with any questions: ww<br />
