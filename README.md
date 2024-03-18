@@ -1,10 +1,10 @@
-<h1>k</h1>
+<h1>w</h1>
   <img src = (https://shields.io/badge/license-MIT-yellow)/>
   <br />
   <br />
   
   ## Description
-  🔍 k
+  🔍 w
   
   ## Table of Contents
   - [Description](#description)
@@ -16,10 +16,10 @@
   - [Questions](#questions)
   
   ## Installation
-  💾 k
+  💾 w
   
   ## Usage
-  💻 kk
+  💻 w
   
   ## License
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
@@ -27,7 +27,7 @@
   This application is covered by the MIT license. 
   
   ## Contributing
-  👪 kk
+  👪 
   
   ## Tests
   ✏️ 

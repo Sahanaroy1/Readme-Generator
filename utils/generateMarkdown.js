@@ -6,11 +6,11 @@ function renderLicenseBadge(license) {
   if (license === "MIT"){
      badge = "(https://shields.io/badge/license-" + license + "-yellow)";
   } else if (license === "Apache 2.0") {
-    badge = "![License Badge](https://shields.io/badge/license-" + license + "-blue)";
+    badge = "(https://shields.io/badge/license-" + license + "-blue)";
   } else if (license === "GPL 3.0") {
-    badge = "![License Badge](https://shields.io/badge/license-" + license + "-blue)";
+    badge = "(https://shields.io/badge/license-" + license + "-blue)";
    } else if (license === "BSD 3") {
-    badge ="![License Badge](https://shields.io/badge/license-" + license + "-Clause blue)";
+    badge ="(https://shields.io/badge/license-" + license + "-Clause blue)";
    } else{
     badge = `<p>No Liscense found</p>`
    }
