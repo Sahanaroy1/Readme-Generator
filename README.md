@@ -1,9 +1,9 @@
-<h1>ee</h1>
-  <img src = ![badge](https://img.shields.io/badge/license-${answers.license}-blue)/>
+<h1></h1>
+  <img src = ![badge](https://img.shields.io/badge/license-${answers.license}-yellow)/>
  
   
   ## Description
-  🔍 ee
+  🔍 
   
   ## Table of Contents
   - [Description](#description)
@@ -15,15 +15,14 @@
   - [Questions](#questions)
   
   ## Installation
-  💾 ee
+  💾 
   
   ## Usage
   💻 
   
   ## License
   <br />
-  ## License
-Please see  to get detailed information for this license
+  Please see https://mit-license.org/ to get detailed information for this license
 
   
   ## Contributing

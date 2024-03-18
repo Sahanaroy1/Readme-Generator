@@ -33,7 +33,7 @@ function renderLicenseLink(license) {
       licenseLink = "https://mit-license.org/";
       break;
     case "Apache":
-      licenseLink = "https://www.apache.org/licenses/LICENSE-2.0.html";
+      licenseLink = "https://www.apache.org/licenses/LICENSE-2.0";
       break;
     case "GPL":
       licenseLink = "https://www.gnu.org/licenses/gpl-3.0.en.html";
@@ -47,15 +47,16 @@ function renderLicenseLink(license) {
   }
   
   return licenseLink;
+  console.log(licenseLink);
 }
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
+  console.log(renderLicenseLink(license));
   let licenseSect = "";
 
   if (license != "None") {
-    licenseSect += "## License\n"
     licenseSect += "Please see " + renderLicenseLink(license) + " to get detailed information for this license\n";
   }
 
