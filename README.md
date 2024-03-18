@@ -1,5 +1,5 @@
 <h1></h1>
-  ![badge](https://img.shields.io/badge/license-Apache 2.0-blue.svg)
+  ![badge](https://img.shields.io/badge/license-BSD 3-Clause-blue.svg)
  
   
   ## Description
