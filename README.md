@@ -1,10 +1,10 @@
-<h1>k</h1>
-  ![License: MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
+<h1>w</h1>
+  <img src = ![License Badge](https://shields.io/badge/license-MIT-yellow)/>
   <br />
   <br />
   
   ## Description
-  🔍 k
+  🔍 w
   
   ## Table of Contents
   - [Description](#description)
@@ -16,10 +16,10 @@
   - [Questions](#questions)
   
   ## Installation
-  💾 k
+  💾 w
   
   ## Usage
-  💻 k
+  💻 w
   
   ## License
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
@@ -27,14 +27,14 @@
   This application is covered by the MIT license. 
   
   ## Contributing
-  👪 k
+  👪 
   
   ## Tests
-  ✏️ k
+  ✏️ 
   
   ## Questions
-  k<br />
   <br />
-  :octocat: Find me on GitHub: <a href="https://github.com/k" target="_blank">k</a><br />
   <br />
-  ✉️ Email me with any questions: <a href="mailto:k" target="_blank">k</a><br /><br />
+  :octocat: Find me on GitHub: <a href="https://github.com/" target="_blank"></a><br />
+  <br />
+  ✉️ Email me with any questions: <a href="mailto:" target="_blank"></a><br /><br />
