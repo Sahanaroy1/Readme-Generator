@@ -1,9 +1,10 @@
-<h1>Readme Generator</h1>
-  <img src = "https://img.shields.io/badge/License-GPL%20v3-blue.svg"/>
+
+  ## aaa
+  <img src = "https://img.shields.io/badge/License-Apache_2.0-blue.svg"/>
  
   
   ## Description
-  🔍 develop
+  🔍 aaa
   
   ## Table of Contents
   - [Description](#description)
@@ -15,24 +16,24 @@
   - [Questions](#questions)
   
   ## Installation
-  💾 npm
+  💾 aaa
   
   ## Usage
-  💻 bkhbksmfbkwef
+  💻 aaa
   
   ## License
   <br />
-  The code is available under <a href ="https://www.gnu.org/licenses/gpl-3.0" target="_blank">GPL 3.0</a> license.
+  The code is available under https://opensource.org/licenses/Apache-2.0 license.
   
   ## Contributing
-  👪 
+  👪 aaa
   
   ## Tests
-  ✏️ bjbdfje
+  ✏️ aa
   
   ## Questions
-  ndendk<br />
+  aa<br />
   <br />
-  :octocat: Find me on GitHub: <a href="https://github.com/sjnds" target="_blank">sjnds</a><br />
+  :octocat: Find me on GitHub: <a href="https://github.com/aa" target="_blank">aa</a><br />
   <br />
-  ✉️ Email me with any questions: <a href="mailto:jsbdjbs" target="_blank">jsbdjbs</a><br /><br />
+  ✉️ Email me with any questions: <a href="mailto:aa" target="_blank">aa</a><br /><br />

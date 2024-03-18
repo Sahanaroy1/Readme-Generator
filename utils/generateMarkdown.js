@@ -25,16 +25,16 @@ console.log(license);
   switch(license) {
 
     case "MIT":
-      licenseLink = `<a href = "https://mit-license.org/" target="_blank">MIT</a>`;
+      licenseLink = "https://mit-license.org/" ;
       break;
     case "Apache 2.0":
-      licenseLink = `<a href="https://opensource.org/licenses/Apache-2.0" target="_blank">Apache-2.0</a>`;
+      licenseLink = "https://opensource.org/licenses/Apache-2.0";
       break;
     case "GPL 3.0":
-      licenseLink = `<a href ="https://www.gnu.org/licenses/gpl-3.0" target="_blank">GPL 3.0</a>`;
+      licenseLink = "https://www.gnu.org/licenses/gpl-3.0";
       break;
     case "BSD 3":
-      licenseLink = `<a href ="https://opensource.org/licenses/BSD-3-Clause" target="_blank">BSD-3</a>`;
+      licenseLink = "https://opensource.org/licenses/BSD-3-Clause";
       break;
     default:
       licenseLink = "";
@@ -62,7 +62,8 @@ function renderLicenseSection(license) {
 function generateMarkdown(answers) {
 
   
-  return `<h1>${answers.projectTitle}</h1>
+  return `
+  ## ${answers.projectTitle}
   ${renderLicenseBadge(answers.license)}
  
   
