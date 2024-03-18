@@ -1,10 +1,10 @@
 
-  ## aaa
-  <img src = "https://img.shields.io/badge/License-Apache_2.0-blue.svg"/>
+  ## qq
+  ![alt text]("https://img.shields.io/badge/License-GPL%20v3-blue.svg")
  
   
   ## Description
-  🔍 aaa
+  🔍 qq
   
   ## Table of Contents
   - [Description](#description)
@@ -16,24 +16,24 @@
   - [Questions](#questions)
   
   ## Installation
-  💾 aaa
+  💾 qq
   
   ## Usage
-  💻 aaa
+  💻 qq
   
   ## License
   <br />
-  The code is available under https://opensource.org/licenses/Apache-2.0 license.
+  The code is available under https://www.gnu.org/licenses/gpl-3.0 license.
   
   ## Contributing
-  👪 aaa
+  👪 qq
   
   ## Tests
-  ✏️ aa
+  ✏️ qq
   
   ## Questions
-  aa<br />
+  qq<br />
   <br />
-  :octocat: Find me on GitHub: <a href="https://github.com/aa" target="_blank">aa</a><br />
+  :octocat: Find me on GitHub: Sahanaroy1<br />
   <br />
-  ✉️ Email me with any questions: <a href="mailto:aa" target="_blank">aa</a><br /><br />
+  ✉️ Email me with any questions: sahanaroy20@gmail.com<br />
