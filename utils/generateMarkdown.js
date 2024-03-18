@@ -24,7 +24,8 @@ function renderLicenseLink(license) {
 
   switch(license) {
     case "MIT":
-      licenseLink = `<a href = "https://mit-license.org/">MIT</a>`;
+      licenseLink = //`<a href = "https://mit-license.org/">MIT</a>`;
+      "https://mit-license.org/";
       break;
     case "Apache":
       licenseLink = `<a href="https://opensource.org/licenses/Apache-2.0">Apache-2.0</a>`;
