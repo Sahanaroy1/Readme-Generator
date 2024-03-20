@@ -1,10 +1,10 @@
 
   ## Readme Generator
-  ![Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+  ![GPL 3.0](https://img.shields.io/badge/License-GPL%20v3-blue.svg)
  
   
   ## Description
-  🔍 develop
+  🔍 Create a readme file with node.js
   
   ## Table of Contents
   - [Description](#description)
@@ -16,24 +16,24 @@
   - [Questions](#questions)
   
   ## Installation
-  💾 npm
+  💾 npm init
   
   ## Usage
-  💻 eee
+  💻 readme created with node
   
   ## License
-  <br />
-  The code is available under https://opensource.org/licenses/Apache-2.0 license.
+
+  The code is available under https://www.gnu.org/licenses/gpl-3.0 license.
   
   ## Contributing
-  👪 ee
+  👪 Sahana
   
   ## Tests
-  ✏️ ee
+  ✏️ No
   
   ## Questions
-  ee<br />
-  <br />
-  :octocat: Find me on GitHub: ee<br />
-  <br />
-  ✉️ Email me with any questions: ee<br />
+  Contact me
+
+  :octocat: Find me on GitHub: sahanaroy1
+
+  ✉️ Email me with any questions: sahanaroy20@gmail.com

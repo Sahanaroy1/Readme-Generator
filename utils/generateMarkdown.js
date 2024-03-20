@@ -1,7 +1,6 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
+// Created to show the license badge selected by user
 function renderLicenseBadge(license) {
-  console.log(license);
+
   let badge = "";
   if (license === "MIT"){
     badge =  `![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)`;
@@ -17,11 +16,9 @@ function renderLicenseBadge(license) {
    return badge;
 }
 
-// TODO: Create a function that returns the license link
-// If there is no license, return an empty string
+// Created to select the link of the license by user input
 function renderLicenseLink(license) {
   let licenseLink;
-console.log(license);
   switch(license) {
 
     case "MIT":
@@ -40,25 +37,21 @@ console.log(license);
       licenseLink = "";
       break;
   }
-  
   return licenseLink;
-  console.log(licenseLink);
 }
 
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
+// Created to show the link of the license on the readme 
 function renderLicenseSection(license) {
-  console.log(renderLicenseLink(license));
+
   let licenseSect = "";
 
   if (license != "None") {
     licenseSect += "The code is available under " + renderLicenseLink(license) + " license." ;
   }
-
   return licenseSect;
 }
 
-// TODO: Create a function to generate markdown for README
+// To generate the readme 
 function generateMarkdown(answers) {
 
   
@@ -86,7 +79,7 @@ function generateMarkdown(answers) {
   💻 ${answers.usage}
   
   ## License
-  <br />
+
   ${renderLicenseSection(answers.license)}
   
   ## Contributing
@@ -96,11 +89,11 @@ function generateMarkdown(answers) {
   ✏️ ${answers.tests}
   
   ## Questions
-  ${answers.questions}<br />
-  <br />
-  :octocat: Find me on GitHub: ${answers.username}<br />
-  <br />
-  ✉️ Email me with any questions: ${answers.email}<br />
+  ${answers.questions}
+
+  :octocat: Find me on GitHub: ${answers.username}
+
+  ✉️ Email me with any questions: ${answers.email}
 `;
 }
 
