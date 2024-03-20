@@ -4,7 +4,7 @@
  
   
   ## Description
-  🔍 Create a readme file with node.js
+  🔍 As a developer created a readme file
   
   ## Table of Contents
   - [Description](#description)
@@ -16,10 +16,10 @@
   - [Questions](#questions)
   
   ## Installation
-  💾 npm init
+  💾 npm
   
   ## Usage
-  💻 readme created with node
+  💻 readme file generator through node.js
   
   ## License
 
@@ -32,8 +32,8 @@
   ✏️ No
   
   ## Questions
-  Contact me
+  contact me
 
-  :octocat: Find me on GitHub: sahanaroy1
+  :octocat: Find me on GitHub: Sahanaroy1
 
   ✉️ Email me with any questions: sahanaroy20@gmail.com
