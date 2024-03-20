@@ -18,7 +18,7 @@ function renderLicenseBadge(license) {
 
 // Created to select the link of the license by user input
 function renderLicenseLink(license) {
-  let licenseLink;
+  let licenseLink = "";
   switch(license) {
 
     case "MIT":
